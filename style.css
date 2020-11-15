@@ -1,0 +1,67 @@
+.box{
+    width: 700px;
+    height: 350px;
+    background-color: yellow;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+.box-half-left{
+    width: 350px;
+    height: 350px;
+}
+.avatar img{
+    width: 250px;
+    height: 300px;
+    top: -10%;
+    left: 50px;
+    position: absolute;
+}
+
+.box-half-left > .bottom > .item1{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+}
+.box-half-left > .bottom >  .item2{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+}
+.box-half-left > .bottom > .item3{
+    position: absolute;
+    top: 80%;
+    left: 30%;
+}
+.box-half-right{
+    width: 350px;
+    height: 350px;
+    top: 0%;
+    left: 50%;
+    position: absolute;
+}
+.box-half-right > .about-me{
+    left: 10%;
+    position: absolute;
+}
+.box-half-right > .about-me > p{
+    left: 20%;
+    position: absolute;
+}
+.box-half-right > .info > .ul1{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 40%
+}
+.box-half-right > .info > .ul2{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 40%;
+    left: 50%;
+}
+.box-half-right > .email{
+    top: 80%;
+    position: absolute;
+}
