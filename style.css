@@ -5,6 +5,7 @@
 }
 .container {
     height: 100vh;
+    background: linear-gradient(#009fff, #ec2f4b);
 }
 .box{
     width: 700px;
